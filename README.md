@@ -22,7 +22,7 @@ Lo que hace esta automatización es:
 - OpenBootcamp: clases del curso de Java basico.
 - Para aprender a instalar Selenium webdriver: https://www.youtube.com/watch?v=OEiWZUgxWfQ
 - Spring Initializer: https://start.spring.io/
-- Extent Reports: https://www.extentreports.com/docs/versions/4/java/index.html
+- Extent Reports: https://www.extentreports.com/docs/versions/4/java/index.html, https://www.youtube.com/watch?v=eF_Vb-d4kIo
 
 
 
